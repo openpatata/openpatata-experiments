@@ -1,0 +1,6 @@
+*.svg
+/.cache
+/.peru
+/scrapers
+/stemming.py
+__pycache__

@@ -1,0 +1,4 @@
+imports:
+  stemming: ./
+curl module stemming:
+  url: https://bitbucket.org/akalapodis/grstemmer/raw/342ef81aca9ca00d9ef595fa0134a4ca6813569e/stemming.py
